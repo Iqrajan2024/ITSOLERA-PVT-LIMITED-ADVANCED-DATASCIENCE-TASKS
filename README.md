@@ -79,7 +79,7 @@
 - Selected best model based on performance metrics  
 
 ## Results and Findings
-- XGBoost achieved the best overall performance  
+- RandomForest achieved the best overall performance  
 - Hyperparameter tuning improved model accuracy  
 - F1-score provided better insight for imbalanced data  
 - Visualization helped compare models effectively  
